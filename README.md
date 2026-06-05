@@ -4,7 +4,7 @@ A desktop web design tool built with PySide6 that lets you visually build web pa
 
 > **⚠️ Early Prototype** — This project is in early development and is far from a polished product. Many features are incomplete, buggy, or missing entirely.
 
-![DesignToCode Screenshot](screenshot.png)
+![DesignToCode Screenshot](https://raw.githubusercontent.com/Tushar-Metrani/tushar-metrani/refs/heads/main/Screenshot-D2C.png)
 
 ---
 
