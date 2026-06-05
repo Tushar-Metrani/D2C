@@ -1,6 +1,6 @@
 # DesignToCode (D2C)
 
-A desktop web design tool built with PySide6 that lets you visually build web pages and export clean HTML/CSS — no coding required.
+A desktop visual HTML/CSS builder built with PySide6 that lets you build web pages visually and export clean HTML/CSS — no coding required.
 
 > **⚠️ Early Prototype** — This project is in early development and is far from a polished product. Many features are incomplete, buggy, or missing entirely.
 
