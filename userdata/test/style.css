@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    min-width: 90dvw ;
+    min-height: 100dvh;
+}
+
+#dev-selectbox{
+    position: absolute;
+    display: none;
+    border: 1px solid purple;
+    border-radius: 1px;
+    pointer-events: none;
+    z-index: 100;
+}
+
+#dev-hoverbox{
+    position: absolute;
+    display: none;
+    border: 1px solid purple;
+    border-radius: 1px;
+    pointer-events: none;
+    z-index: 100;
+}
+
+#dev-label{
+    font-size: 13px;
+    min-height: 5px;
+    position: relative;
+    top: 0px;
+    display: inline-block;
+    background-color: purple;
+    color: white;
+    padding: 3px 3px;
+}
+
+
+#dev-insertbox{
+    padding: 5px;
+    position: relative;
+    background-color: purple;
+    display: none;
+    width: 10%;
+    height: 5%;
+    border: 1px solid purple;
+    border-radius: 2px;
+    pointer-events: none;
+    z-index: 100;
+}

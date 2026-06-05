@@ -1,0 +1,148 @@
+{
+    "Layout":[
+        {
+            "name":"display",
+            "input_type":"combo",
+            "options":["block","inline-block","flex","none"],
+            "value":""
+        },
+        {
+            "name":"flex-direction",
+            "input_type":"combo",
+            "options":["row","column","row-reverse","column-reverse"],
+            "value":""
+        },
+        {
+            "name":"flex-wrap",
+            "input_type":"combo",
+            "options":["wrap","nowrap"],
+            "value":""
+        },
+        {
+            "name":"align-content",
+            "input_type":"combo",
+            "options":["center","flex-start","flex-end","space-around","space-between","stretch"],
+            "value":""
+        },
+        {
+            "name":"justify-content",
+            "input_type":"combo",
+            "options":["center","flex-start","flex-end","space-around","space-between","space-evenly"],
+            "value":""
+    },
+        {
+            "name":"align-items",
+            "input_type":"combo",
+            "options":["flex-start","flex-end","stretch","baseline","center"],
+            "value":""
+    }
+    ],
+
+    "Sizing": [
+        {
+            "name": "width",
+            "input_type": "lineedit",
+            "value": ""
+        },
+        {
+            "name": "height",
+            "input_type": "lineedit",
+            "value": ""
+        },
+        {
+            "name": "max-width",
+            "input_type": "lineedit",
+            "value": ""
+        },
+        {
+            "name": "max-height",
+            "input_type": "lineedit",
+            "value": ""
+        },
+        {
+            "name": "min-width",
+            "input_type": "lineedit",
+            "value": ""
+        },
+        {
+            "name": "min-height",
+            "input_type": "lineedit",
+            "value": ""
+        }
+
+    ],
+
+    "Spacing":[
+
+        {
+            "name":"margin",
+            "input_type":"lineedit",
+            "value":""
+        },
+
+        {
+            "name":"padding",
+            "input_type":"lineedit",
+            "value":""
+        }
+    ],
+
+    "Typography": [
+        {
+            "name": "font-weight",
+            "input_type": "combo",
+            "options": ["300","400","500","600"]
+        },
+        {
+            "name": "font-size",
+            "input_type": "lineedit",
+            "value": ""
+        },
+        {
+            "name": "text-align",
+            "input_type": "combo",
+            "options": ["start","center","end","justify"]
+        },
+        {
+            "name": "color",
+            "input_type": "color",
+            "value": ""
+        }
+    ],
+
+    "Background": [
+        {
+            "name": "background-color",
+            "input_type": "color",
+            "value":""
+        },
+        {
+            "name": "background-image",
+            "input_type": "image",
+            "value":""
+        }
+    ],
+
+    "Border": [
+        {
+            "name":"border-width",
+            "input_type": "lineedit",
+            "value": ""
+        },
+        {
+            "name":"border-style",
+            "input_type": "lineedit",
+            "value": ""
+        },
+        {
+            "name":"border-color",
+            "input_type": "color",
+            "value": ""
+        },
+        {
+            "name":"border-radius",
+            "input_type": "lineedit",
+            "value": ""
+        }
+    ]
+}

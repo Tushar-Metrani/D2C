@@ -1,0 +1,7 @@
+{
+  "menu": [
+    {"label": "File", "action": "go_home", "options": ["New Project","Open Project","Close"]},
+    {"label": "View", "action": "show_about", "options": ["Open in Browser"]},
+    {"label": "Tools", "action": "show_about", "options": ["Export Code"]}
+  ]
+}

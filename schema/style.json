@@ -1,0 +1,26 @@
+{
+    "image": [
+        {
+            "name": "width",
+            "value": ""
+        },
+        {
+            "name": "height",
+            "value": ""
+        },
+        {
+            "name": "opacity",
+            "value": ""
+        },
+        {
+            "name": "display",
+            "value": ""
+        }
+    ],
+    "a": [
+        {
+            "name": "text-decoration",
+            "value": "none"
+        }
+    ]
+}

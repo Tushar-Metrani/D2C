@@ -1,0 +1,44 @@
+{
+    "image": [
+        {
+            "name": "id",
+            "value": ""
+        },
+        {
+            "name": "class",
+            "value": ""
+        },
+        {
+            "name": "src",
+            "value": ""
+        },
+        {
+            "name": "alt",
+            "value": ""
+        },
+        {
+            "name": "width",
+            "value": "",
+            "metric": "px"
+        },
+        {
+            "name": "height",
+            "value": "",
+            "metric": "px"
+        },
+        {
+            "name": "loading",
+            "value": ""
+        }
+    ],
+    "a": [
+        {
+            "name": "href",
+            "value": ""
+        },
+        {
+            "name": "target",
+            "value": ""
+        }
+    ]
+}

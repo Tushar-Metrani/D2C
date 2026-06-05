@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Qt / PySide
+*.qmlc
+*.jsc
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Project-specific directories
+**/bin/
+**/misc/
+
+backup/
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db

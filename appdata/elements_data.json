@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Containers",
+    "elements": [
+      { "name": "div", "thumbnail": "div.svg", "markup": "div" }
+    ]
+  },
+  {
+    "category": "Typography",
+    "elements": [
+      { "name": "h1", "thumbnail": "h1.svg", "markup": "h1" },
+      { "name": "h2", "thumbnail": "h2.svg", "markup": "h2" },
+      { "name": "h3", "thumbnail": "h3.svg", "markup": "h3" },
+      { "name": "h4", "thumbnail": "h4.svg", "markup": "h4" },
+      { "name": "h5", "thumbnail": "h5.svg", "markup": "h5" },
+      { "name": "h6", "thumbnail": "h6.svg", "markup": "h6" },
+      { "name": "p", "thumbnail": "paragraph.svg", "markup": "p" },
+      { "name": "a", "thumbnail": "link.svg", "markup": "a" }
+    ]
+  },
+  {
+    "category": "Media",
+    "elements": [
+      { "name": "img", "thumbnail": "image.svg", "markup": "img" }
+    ]
+  }
+]

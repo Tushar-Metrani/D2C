@@ -1,0 +1,25 @@
+{
+  "files": {
+    "default_save_dir": "D:\\user\\data",
+    "auto_save": true,
+    "auto_save_interval_seconds": 300,
+    "backup_enabled": true,
+    "backup_dir": "D:\\user\\backups"
+  },
+  "ui": {
+    "theme": "dark",
+    "font_size": 14,
+    "font_family": "Segoe UI",
+    "compact_mode": false
+  },
+  "notifications": {
+    "enabled": true,
+    "sound": true,
+    "notify_on_save": false
+  },
+  "app": {
+    "language": "en-US",
+    "start_on_boot": false,
+    "check_for_updates": true
+  }
+}
