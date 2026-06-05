@@ -53,8 +53,3 @@ python main.py
 - No responsive / breakpoint preview
 - Limited set of placeable components
 
----
-
-## License
-
-MIT — see `LICENSE` for details.
